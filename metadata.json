@@ -1,0 +1,8 @@
+{
+  "name": "AutoValue AI - Vehicle Valuator",
+  "description": "Professional vehicle technical inspection and AI valuation engine for the Pakistani automotive market with Lahore/Punjab regional pricing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
